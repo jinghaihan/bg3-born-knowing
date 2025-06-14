@@ -1,0 +1,9 @@
+key "CarryWeightBase","1000"
+key "EncumberedMultiplier","60"
+key "HeavilyEncumberedMultiplier","80"
+key "CarryLimitMultiplier","100"
+
+key "LearnSpellCostPerLevel","0"
+key "SavantLearnSpellCostPerLevel","0"
+
+key "GlobalGoldValueMultiplier","0"
