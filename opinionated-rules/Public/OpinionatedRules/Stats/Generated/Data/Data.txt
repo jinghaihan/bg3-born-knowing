@@ -1,0 +1,2 @@
+key "LearnSpellCostPerLevel","0"
+key "SavantLearnSpellCostPerLevel","0"
